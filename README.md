@@ -3,10 +3,10 @@
 ### EDUCATION
 
 **COLUMBIA UNIVERSITY**, New York, NY  
-_B.S in Operations Research: Financial Engineering – Altair Scholar_  | Expected 05/27
+_B.S in Operations Research: Financial Engineering – Altair Scholar_    |    Expected 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
-_Study Abroad Program – National Venture Capital Winner_  | 06/24 – 08/24
+_Study Abroad Program – National Venture Capital Winner_    |    06/24 – 08/24
 
 ---
 
