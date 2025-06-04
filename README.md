@@ -3,10 +3,10 @@
 ### EDUCATION
 
 **COLUMBIA UNIVERSITY**, New York, NY  
-_Bachelor of Science in Operations Research: Financial Engineering – Altair Scholar_  |  GPA: 3.5/4.0  |  Expected 05/27
+_B.S in Operations Research: Financial Engineering – Altair Scholar_  | Expected 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
-_International Study Abroad Program – National Venture Capital Winner_  |  GPA: 4.0/4.0  |  06/24 – 08/24
+_Study Abroad Program – National Venture Capital Winner_  | 06/24 – 08/24
 
 ---
 
@@ -59,25 +59,19 @@ _International Study Abroad Program – National Venture Capital Winner_  |  GPA
 
 ## ADDITIONAL
 
-- **Languages**:  
-  - English (Native)  
-  - Spanish (Proficient)  
-  - Korean (Elementary)  
-  - Japanese (Learning)
-
-- **Technical**:  
-  - Python  |  Java  |  Microsoft Excel  |  Microsoft PowerPoint  |  Google Sheets API  |  DCF Modeling  |  LBO Modeling
+- **Languages**:
+    English (Native)  |  Spanish (Proficient)  |  Korean (Elementary)  |  Japanese (Learning)
 
 - **Creative Interests**:  
-  - Jazz-funk dance  |  Hip-hop dance  |  Songwriting  |  Music production  |  Baritone-tenor vocal performance
+  Jazz-funk dance  |  Hip-hop dance  |  Songwriting  |  Music production  |  Baritone-tenor vocal performance
 
 - **Publications**:  
-  - Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
+  Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
 
 - **Programs**:  
-  - SEO Edge: AIIB  |  SEO Alpha Academy  |  Raine Group GDL  |  UBS Tomorrow’s Talent  |  Goldman Sachs APAC Possibilities
+  SEO Edge: AIIB  |  SEO Alpha Academy  |  Raine Group GDL  |  UBS Tomorrow’s Talent  |  Goldman Sachs APAC Possibilities
 
 - **Awards**:  
-  - South Korea National ENVC (1st)  |  BlackGen National Winter Summit (4th)  |  Discerene x Maytech Global (Top 7 Finalist)
+  South Korea National ENVC (1st)  |  BlackGen National Winter Summit (4th)  |  Discerene x Maytech Global (Top 7 Finalist)
 
 
