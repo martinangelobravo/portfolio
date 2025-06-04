@@ -11,19 +11,15 @@
 
 ### EDUCATION
 
-**COLUMBIA UNIVERSITY**, New York, NY  
-B.S in Operations Research: Financial Engineering
+**COLUMBIA UNIVERSITY**, New York, NY  –  Expected Graduation: 05/27
+- B.S in Operations Research: Financial Engineering
+- Altair# OnlyForward Scholarship Recipient (1/10)
 
-Altair# OnlyForward Scholarship Recipient (1/10)
 
-Expected Graduation: 05/27
+**YONSEI UNIVERSITY**, Seoul, South Korea  -–  06/24 – 08/24
+- Study Abroad Program: Business, Venture Capital, & Entrepreneurship
+- National South Korea Venture Competition Winner
 
-**YONSEI UNIVERSITY**, Seoul, South Korea  
-Study Abroad Program: Business, Venture Capital, & Entrepreneurship 
-
-National South Korea Venture Competition Winner
-
-06/24 – 08/24
 
 ---
 
