@@ -1,4 +1,4 @@
-# MARTIN BRAVO DIGITAL PORTFOLIO
+# DIGITAL PORTFOLIO
 
 ### Technical Skills:  
   - Python
@@ -12,10 +12,14 @@
 ### EDUCATION
 
 **COLUMBIA UNIVERSITY**, New York, NY  
-B.S in Operations Research: Financial Engineering | Expected 05/27
+B.S in Operations Research: Financial Engineering
+Altair# OnlyForward Scholarship Recipient (1/10)
+Expected Graduation: 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
-Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 08/24
+Study Abroad Program: Business, Venture Capital, & Entrepreneurship 
+National South Korea Venture Competition Winner
+06/24 – 08/24
 
 ---
 
@@ -85,6 +89,7 @@ Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 
   - Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
 
 - **Programs**:  
+  - ViableEdu Fintech Apprentice Program
   - SEO Edge: AIIB Track
   - SEO Alpha Academy
   - Raine Group GDL Program
@@ -92,7 +97,7 @@ Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 
   - Goldman Sachs APAC Possibilities Summit
 
 - **Awards**:  
-  - South Korea National ENVC Competition (1st)
+  - South Korea National ENVC Venture Competition (1st)
   - BlackGen National Winter Summit Stock Pitch Competition (4th)
   - Discerene x Maytech Global Investments Pitch Competition(Top 7 Finalist)
 
