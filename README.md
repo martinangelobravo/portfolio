@@ -15,9 +15,11 @@
 - B.S in Operations Research: Financial Engineering
 - Altair #OnlyForward Scholarship Recipient (1/10)
 
+
 **YONSEI UNIVERSITY**, Seoul, South Korea  |  06/24 – 08/24
 - Study Abroad Program: Korean Language, Business, Venture Capital, & Entrepreneurship Studies 
 - National South Korea Venture Competition Winner
+
 
 **QUEENS METROPOLITAN HIGH SCHOOL**, New York, NY |  08/19 – 06/23
 - New York State Advanced Regents Diploma
