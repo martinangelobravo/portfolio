@@ -32,23 +32,23 @@
 
 ### CROWN & DAGGER CAPITAL, New York, NY  
 **Chief Operating Officer & General Partner**  |  03/25 – Present  
-- Co-founded Columbia University’s invite-only, student-led hedge fund targeting \$100K+ AUM through macro/quant strategy  
-- Designed technical analyst training for equity research, sector coverage, and volatility modeling to support hedging execution  
-- Oversaw internal recruitment and led onboarding for inaugural analyst class through accelerator-style curriculum milestones  
-- Engineered asymmetric return profiles using tail-risk hedging strategies designed to protect against black and grey swan events  
+- Co-found Columbia University’s invite-only, student-led hedge fund targeting \$100K+ AUM through macro/quant strategy  
+- Design technical analyst training for equity research, sector coverage, and volatility modeling to support hedging execution  
+- Oversee internal recruitment and led onboarding for inaugural analyst class through accelerator-style curriculum milestones  
+- Engineer asymmetric return profiles using tail-risk hedging strategies designed to protect against black and grey swan events  
 
 ### ROMERO CAPITAL, New York, NY  
 **Private Equity Trainee – Apprenticeship**  |  02/25 – Present  
-- Pursuing 194+ hours of DCF, LBO, and M&A modeling training to build valuation skillset and transaction execution confidence  
-- Constructed investment pitch decks for simulated buyouts integrating comps, precedents, and multi-exit scenario analysis  
-- Developed LBO and accretion/dilution valuation models for 4 case-study exercises while completing formal training curriculum  
-- Leveraged mentorship and guided modules to evaluate capital structures and forecast IRRs under alternating deal assumptions  
+- Pursue 194+ hours of DCF, LBO, and M&A modeling training to build valuation skillset and transaction execution confidence  
+- Construct investment pitch decks for simulated buyouts integrating comps, precedents, and multi-exit scenario analysis  
+- Develop LBO and accretion/dilution valuation models for 4 case-study exercises while completing formal training curriculum  
+- Leverage mentorship and guided modules to evaluate capital structures and forecast IRRs under alternating deal assumptions  
 
 ### BLK CAPITAL MANAGEMENT, New York, NY  
 **Equity Research Analyst – Apprenticeship**  |  01/25 – Present  
-- Constructed DCF, comps, and precedent-transaction models to support portfolio rebalancing decisions through equity valuation  
-- Presented formal TMT stock pitches and contributed to sector-specific rotation discussions under guidance of senior analysts  
-- Generated long/short equity theses by analyzing economic trends, earnings revisions, and sentiment indicators in large-cap sectors
+- Construct DCF, comps, and precedent-transaction models to support portfolio rebalancing decisions through equity valuation  
+- Present formal TMT stock pitches and contributed to sector-specific rotation discussions under guidance of senior analysts  
+- Generate long/short equity theses by analyzing economic trends, earnings revisions, and sentiment indicators in large-cap sectors
 
 ### COLUMBIA UNDERGRADUATE WEALTH MANAGEMENT CLUB, New York, NY  
 **Head of Private Banking Division**  |  09/24 – Present  
@@ -60,7 +60,7 @@
 **Vice President of Programming**  |  09/24 – 06/25  
 - Completed 10-week analyst training in equity valuation (DCF), restructuring, and financial modeling frameworks
 - Researched TMT equities for $105K+ AUM fund, generating theses for chapter-wide presentations and portfolio rotation
-- Organize 5 events and managed 3 firm partnerships to accelerate professional development and facilitate internal recruitment
+- Organized 5 events and managed 3 firm partnerships to accelerate professional development and facilitate internal recruitment
 
 ### BULLMONT CAPITAL, Westport, CT  
 **Venture Partner – Technology Investments Team**  |  09/24 – 06/25  
@@ -108,8 +108,6 @@
 - Researched machine learning and artificial intelligence algorithms, implementing Python prototypes to evaluate model accuracy on image‐classification datasets.
 - Collaborated with graduate students to fine‐tune neural network architectures, running hyperparameter experiments and visualizing results in Jupyter notebooks.
 - Authored a technical report summarizing findings on sequence‐prediction techniques, which informed follow‐on research projects within the department.
-
-
 
 ---
 
