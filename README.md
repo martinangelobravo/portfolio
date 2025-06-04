@@ -82,7 +82,7 @@
 ## RESEARCH
 
 ### COLUMBIA UNIVERSITY: FU FOUNDATION SCHOOL OF ENGINEERING & APPLIED SCIENCE, New York, NY  
-**Undergraduate Researcher – IEOR Department**  |  02/25 – Present  
+**Undergraduate Researcher – Industrial Engineering & Operations Research Department**  |  02/25 – Present  
 - Developed automated Course Assistant matching system using Flask, GPT models, and Google Sheets API for scoring interface  
 - Streamlined faculty decision-making process and effectively evaluated undergraduate applicants semesterly to fill positions  
 - Constructed scalable scoring pipelines integrating OCR technology and LLMs to parse 70+ university student applications  
@@ -95,13 +95,13 @@
 - Collaborated with a multidisciplinary team to optimize lab workflows and troubleshoot experiments, ensuring reproducible data for ongoing stem cell studies.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Student Researcher – Automation, Robotics, & Circuitry (CS Department)**  |  06/22 – 08/22
+**Student Researcher – Automation, Robotics, & Circuitry (Computer Science Department)**  |  06/22 – 08/22
 - Developed and tested automation and robotics prototypes in circuitry labs, creating control routines for microcontroller‐based devices.
 - Programmed embedded systems to perform sensor data acquisition and analyzed performance metrics to refine hardware–software integration.
 - Reviewed technical documentation and presented weekly progress updates to faculty advisors, contributing design recommendations that improved system reliability by 15%.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Student Researcher – Machine Learning & Artificial Intelligence (CS Department)**  |  06/21 – 08/21
+**Student Researcher – Machine Learning & Artificial Intelligence (Computer Science Department)**  |  06/21 – 08/21
 - Researched machine learning and artificial intelligence algorithms, implementing Python prototypes to evaluate model accuracy on image‐classification datasets.
 - Collaborated with graduate students to fine‐tune neural network architectures, running hyperparameter experiments and visualizing results in Jupyter notebooks.
 - Authored a technical report summarizing findings on sequence‐prediction techniques, which informed follow‐on research projects within the department.
