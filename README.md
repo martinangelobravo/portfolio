@@ -89,19 +89,19 @@
 - Generated composite rankings to finalize course assignments based on transcripts, resumes, and interest-statement responses
 
 ### THE NEW YORK STEM CELL FOUNDATION RESEARCH INSTITUTE, New York, NY
-**Research Assistant – Biomedical Engineering Laboratory**  |  07/22 – 08/22
+**Student Researcher – Biomedical Engineering Laboratory**  |  07/22 – 08/22
 - Conducted stem cell research and analyzed biotechnology protocols, performing assays to assess cellular differentiation and viability.
 - Assisted in experimental design for tissue‐engineering projects, prepared reagents and culture media, and documented results in lab notebooks for senior researchers.
 - Collaborated with a multidisciplinary team to optimize lab workflows and troubleshoot experiments, ensuring reproducible data for ongoing stem cell studies.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Research Assistant – Automation, Robotics, & Circuitry (CS Department)**  |  06/22 – 08/22
+**Student Researcher – Automation, Robotics, & Circuitry (CS Department)**  |  06/22 – 08/22
 - Developed and tested automation and robotics prototypes in circuitry labs, creating control routines for microcontroller‐based devices.
 - Programmed embedded systems to perform sensor data acquisition and analyzed performance metrics to refine hardware–software integration.
 - Reviewed technical documentation and presented weekly progress updates to faculty advisors, contributing design recommendations that improved system reliability by 15%.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Research Assistant – Machine Learning & Artificial Intelligence (CS Department)**  |  06/21 – 08/21
+**Student Researcher – Machine Learning & Artificial Intelligence (CS Department)**  |  06/21 – 08/21
 - Researched machine learning and artificial intelligence algorithms, implementing Python prototypes to evaluate model accuracy on image‐classification datasets.
 - Collaborated with graduate students to fine‐tune neural network architectures, running hyperparameter experiments and visualizing results in Jupyter notebooks.
 - Authored a technical report summarizing findings on sequence‐prediction techniques, which informed follow‐on research projects within the department.
@@ -142,7 +142,7 @@
   - National South Korea National ENVC Venture Pitch Competition (1st)
   - National BlackGen Capital Winter Summit Stock Pitch Competition (4th)
   - Regional BlackGen Capital Winter Summit Stock Pitch Competition (2nd)
-  - Regioknal Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
+  - Regional Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
  
 - **Recognition**:
   - University Altair #OnlyForward Scholarship Recipient
