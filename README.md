@@ -1,7 +1,13 @@
 # COLUMBIA UNIVERSITY STUDENT PORTFOLIO
 
-- **Technical Skills**:  
-  - Python  |  Java  |  Microsoft Excel  |  Microsoft PowerPoint  |  Google Sheets API  |  DCF Modeling  |  LBO Modeling
+### Technical Skills:  
+  - Python
+  - Java
+  - Microsoft Excel
+  - Microsoft PowerPoint
+  - Google Sheets API
+  - DCF Modeling
+  - LBO Modeling
 
 ### EDUCATION
 
@@ -63,18 +69,31 @@ _Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 –
 ## ADDITIONAL
 
 - **Languages**:
-  - English (Native)  |  Spanish (Proficient)  |  Korean (Elementary)  |  Japanese (Learning)
+  - English (Native)
+  - Spanish (Proficient)
+  - Korean (Elementary)
+  - Japanese (Learning)
 
 - **Creative Interests**:  
-  - Jazz-funk dance  |  Hip-hop dance  |  Songwriting  |  Music production  |  Baritone-tenor vocal performance
+  - Jazz-funk dance
+  - Hip-hop dance
+  - Songwriting
+  - Music production
+  - Baritone-tenor vocal performance
 
 - **Publications**:  
   - Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
 
 - **Programs**:  
-  - SEO Edge: AIIB  |  SEO Alpha Academy  |  Raine Group GDL  |  UBS Tomorrow’s Talent  |  Goldman Sachs APAC Possibilities
+  - SEO Edge: AIIB Track
+  - SEO Alpha Academy
+  - Raine Group GDL Program
+  - UBS Tomorrow’s Talent Program
+  - Goldman Sachs APAC Possibilities Summit
 
 - **Awards**:  
-  - South Korea National ENVC (1st)  |  BlackGen National Winter Summit (4th)  |  Discerene x Maytech Global (Top 7 Finalist)
+  - South Korea National ENVC Competition (1st)
+  - BlackGen National Winter Summit Stock Pitch Competition (4th)
+  - Discerene x Maytech Global Investments Pitch Competition(Top 7 Finalist)
 
 
