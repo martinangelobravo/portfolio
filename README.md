@@ -13,12 +13,16 @@
 
 **COLUMBIA UNIVERSITY**, New York, NY  
 B.S in Operations Research: Financial Engineering
+
 Altair# OnlyForward Scholarship Recipient (1/10)
+
 Expected Graduation: 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
 Study Abroad Program: Business, Venture Capital, & Entrepreneurship 
+
 National South Korea Venture Competition Winner
+
 06/24 – 08/24
 
 ---
