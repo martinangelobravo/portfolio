@@ -52,7 +52,7 @@
 - Deliver bi-weekly briefings to 40 analysts on sub-team presentations and upcoming club events related to private banking
 
 ### COLUMBIA BLACKGEN CAPITAL, New York, NY
-**Vice President of Programming**  |  09/24 – 05/25  
+**Vice President of Programming**  |  09/24 – 06/25  
 - Completed 10-week analyst training in equity valuation (DCF), restructuring, and financial modeling frameworks
 - Researched TMT equities for $105K+ AUM fund, generating theses for chapter-wide presentations and portfolio rotation
 - Organize 5 events and managed 3 firm partnerships to accelerate professional development and facilitate internal recruitment
@@ -70,7 +70,7 @@
 - Conducted competitive market research to guide 3 product iterations and refine go-to-market strategy across pilot teams
 
 ### SERIES, New York, NY
-**Business Development Intern – Venture Networking Team**  |  09/24 – 05/24  
+**Business Development Intern – Venture Networking Team**  |  03/24 – 06/24  
 - Recruited startup and VC leaders for podcast interviews to spotlight innovation and amplify student founder stories through Series’ media platform
 - Promoted startup-focused services (accounting, legal, consulting) by organizing events that connected early-stage companies with professional advisory networks
 - Collaborated with founders from partnered firms to refine business models and enhance sustainability initiatives aligned with long-term growth goals
