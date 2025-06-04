@@ -43,7 +43,19 @@
 **Equity Research Analyst – Apprenticeship**  |  01/25 – Present  
 - Constructed DCF, comps, and precedent-transaction models to support portfolio rebalancing decisions through equity valuation  
 - Presented formal TMT stock pitches and contributed to sector-specific rotation discussions under guidance of senior analysts  
-- Generated long/short equity theses by analyzing economic trends, earnings revisions, and sentiment indicators in large-cap sectors  
+- Generated long/short equity theses by analyzing economic trends, earnings revisions, and sentiment indicators in large-cap sectors
+
+### COLUMBIA UNDERGRADUATE WEALTH MANAGEMENT CLUB, New York, NY  
+**Head of Private Banking Division**  |  09/24 – Present  
+- Lead private banking analyst programming amongst 3 sub-teams; emerging trends, client relationship, and wealth strategies
+- Develop educational programs for analyst upskilling by integrating platforms like BlackRock’s Aladdin and PWM Pathways
+- Deliver bi-weekly briefings to 40 analysts on sub-team presentations and upcoming club events related to private banking
+
+### COLUMBIA BLACKGEN CAPITAL, New York, NY
+**Vice President of Programming**  |  09/24 – 05/25  
+- Completed 10-week analyst training in equity valuation (DCF), restructuring, and financial modeling frameworks
+- Researched TMT equities for $105K+ AUM fund, generating theses for chapter-wide presentations and portfolio rotation
+- Organize 5 events and managed 3 firm partnerships to accelerate professional development and facilitate internal recruitment
 
 ### BULLMONT CAPITAL, Westport, CT  
 **Venture Partner – Technology Investments Team**  |  09/24 – 06/25  
@@ -55,7 +67,13 @@
 **Operations Intern – Venture Capital Team**  |  06/24 – 08/24  
 - Collaborated with product, operations, and design teams to identify inefficiencies and support roadmap planning for MVP launches  
 - Managed digital content across multi-media platforms, increasing consumer retention by 25% through data-backed strategy  
-- Conducted competitive market research to guide 3 product iterations and refine go-to-market strategy across pilot teams  
+- Conducted competitive market research to guide 3 product iterations and refine go-to-market strategy across pilot teams
+
+### SERIES, New York, NY
+**Business Development Intern – Venture Networking Team**  |  09/24 – 05/24  
+- Recruited startup and VC leaders for podcast interviews to spotlight innovation and amplify student founder stories through Series’ media platform
+- Promoted startup-focused services (accounting, legal, consulting) by organizing events that connected early-stage companies with professional advisory networks
+- Collaborated with founders from partnered firms to refine business models and enhance sustainability initiatives aligned with long-term growth goals
 
 ---
 
