@@ -1,4 +1,4 @@
-# DIGITAL PORTFOLIO
+# DIGITAL CV/RESUME
 
 ### Technical Skills:  
   - Python
