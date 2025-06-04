@@ -99,6 +99,6 @@
 - **Awards**:  
   - South Korea National ENVC Venture Competition (1st)
   - BlackGen National Winter Summit Stock Pitch Competition (4th)
-  - Discerene x Maytech Global Investments Pitch Competition(Top 7 Finalist)
+  - Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
 
 
