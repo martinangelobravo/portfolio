@@ -11,18 +11,15 @@
 
 ## EDUCATION
 
-### COLUMBIA UNIVERSITY, New York, NY
-#### Expected: 05/27
+### COLUMBIA UNIVERSITY, New York, NY | Expected Graduation 05/27
 - B.S in Operations Research: Financial Engineering
 - Altair Scholar (1/10)
 
-### YONSEI UNIVERSITY, Seoul, South Korea
-#### 06/24 – 08/24
+### YONSEI UNIVERSITY, Seoul, South Korea | 06/24 – 08/24
 - Study Abroad Program: Korean Language, Business, Venture Capital, & Entrepreneurship Studies 
 - Venture Competition Winner
 
-### QUEENS METROPOLITAN HIGH SCHOOL, New York, NY
-#### 08/19 – 06/23
+### QUEENS METROPOLITAN HIGH SCHOOL, New York, NY | 08/19 – 06/23
 - New York State Advanced Regents Diploma
 - Valedictorian (1/297)
 
