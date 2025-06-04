@@ -15,11 +15,9 @@
 - B.S in Operations Research: Financial Engineering
 - Altair #OnlyForward Scholarship Recipient (1/10)
 
-
 **YONSEI UNIVERSITY**, Seoul, South Korea  |  06/24 – 08/24
 - Study Abroad Program: Korean Language, Business, Venture Capital, & Entrepreneurship Studies 
 - National South Korea Venture Competition Winner
-
 
 **QUEENS METROPOLITAN HIGH SCHOOL**, New York, NY |  08/19 – 06/23
 - New York State Advanced Regents Diploma
@@ -137,11 +135,20 @@
   - Goldman Sachs Asia Pacific Possibilities Summit
   - Raine Group Growing Diverse Leaders Program
   - UBS Tomorrow’s Talent Program
+  - Goldman Sachs Virtual Insight Series
   - Grata Scholars Program
 
 - **Awards**:  
-  - South Korea National ENVC Venture Competition (1st)
-  - BlackGen National Winter Summit Stock Pitch Competition (4th)
-  - Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
+  - National South Korea National ENVC Venture Pitch Competition (1st)
+  - National BlackGen Capital Winter Summit Stock Pitch Competition (4th)
+  - Regioknal Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
+ 
+- **Recognition**:
+  - University Altair #OnlyForward Scholarship Recipient
+  - Regional Mayor Eric Adams Award of Honor Recipient
+  - Regional New York State City Council Citation Recipient
+  - National CollegeBoard Hispanic Recognition Recipient
+  - National AP Scholar with Distinction Recipient
+  - National AP Scholar with Honor Recipient
 
 
