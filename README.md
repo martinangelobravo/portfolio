@@ -1,15 +1,15 @@
 # COLUMBIA UNIVERSITY STUDENT PORTFOLIO
 
-**Technical**:  
-  Python  |  Java  |  Microsoft Excel  |  Microsoft PowerPoint  |  Google Sheets API  |  DCF Modeling  |  LBO Modeling
+- **Technical Skills**:  
+  - Python  |  Java  |  Microsoft Excel  |  Microsoft PowerPoint  |  Google Sheets API  |  DCF Modeling  |  LBO Modeling
 
 ### EDUCATION
 
 **COLUMBIA UNIVERSITY**, New York, NY  
-_B.S in Operations Research: Financial Engineering – Altair Scholar_    |    Expected 05/27
+_B.S in Operations Research: Financial Engineering | Expected 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
-_Study Abroad Program – National Venture Capital Winner_    |    06/24 – 08/24
+_Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 08/24
 
 ---
 
@@ -63,18 +63,18 @@ _Study Abroad Program – National Venture Capital Winner_    |    06/24 – 08/
 ## ADDITIONAL
 
 - **Languages**:
-    English (Native)  |  Spanish (Proficient)  |  Korean (Elementary)  |  Japanese (Learning)
+  - English (Native)  |  Spanish (Proficient)  |  Korean (Elementary)  |  Japanese (Learning)
 
 - **Creative Interests**:  
-  Jazz-funk dance  |  Hip-hop dance  |  Songwriting  |  Music production  |  Baritone-tenor vocal performance
+  - Jazz-funk dance  |  Hip-hop dance  |  Songwriting  |  Music production  |  Baritone-tenor vocal performance
 
 - **Publications**:  
-  Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
+  - Investment research on Indonesia in *The Columbia Emerging Markets Review* (APAC & LATAM coverage)
 
 - **Programs**:  
-  SEO Edge: AIIB  |  SEO Alpha Academy  |  Raine Group GDL  |  UBS Tomorrow’s Talent  |  Goldman Sachs APAC Possibilities
+  - SEO Edge: AIIB  |  SEO Alpha Academy  |  Raine Group GDL  |  UBS Tomorrow’s Talent  |  Goldman Sachs APAC Possibilities
 
 - **Awards**:  
-  South Korea National ENVC (1st)  |  BlackGen National Winter Summit (4th)  |  Discerene x Maytech Global (Top 7 Finalist)
+  - South Korea National ENVC (1st)  |  BlackGen National Winter Summit (4th)  |  Discerene x Maytech Global (Top 7 Finalist)
 
 
