@@ -17,7 +17,7 @@
 
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  |  06/24 – 08/24
-- Study Abroad Program: Business, Venture Capital, & Entrepreneurship
+- Study Abroad Program: Korean Language, Business, Venture Capital, & Entrepreneurship Studies 
 - National South Korea Venture Competition Winner
 
 
