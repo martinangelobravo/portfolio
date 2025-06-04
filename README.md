@@ -12,10 +12,10 @@
 ### EDUCATION
 
 **COLUMBIA UNIVERSITY**, New York, NY  
-_B.S in Operations Research: Financial Engineering | Expected 05/27
+B.S in Operations Research: Financial Engineering | Expected 05/27
 
 **YONSEI UNIVERSITY**, Seoul, South Korea  
-_Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 08/24
+Study Abroad Program: Business, Venture Capital, & Entrepreneurship | 06/24 – 08/24
 
 ---
 
