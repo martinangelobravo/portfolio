@@ -1,4 +1,7 @@
-# Columbia University Student
+# COLUMBIA UNIVERSITY STUDENT PORTFOLIO
+
+**Technical**:  
+  Python  |  Java  |  Microsoft Excel  |  Microsoft PowerPoint  |  Google Sheets API  |  DCF Modeling  |  LBO Modeling
 
 ### EDUCATION
 
