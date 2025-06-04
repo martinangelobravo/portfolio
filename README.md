@@ -141,6 +141,7 @@
 - **Awards**:  
   - National South Korea National ENVC Venture Pitch Competition (1st)
   - National BlackGen Capital Winter Summit Stock Pitch Competition (4th)
+  - Regional BlackGen Capital Winter Summit Stock Pitch Competition (2nd)
   - Regioknal Discerene x Maytech Global Investments Pitch Competition (Top 7 Finalist)
  
 - **Recognition**:
