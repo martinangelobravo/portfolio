@@ -28,14 +28,14 @@
 ## EXPERIENCE
 
 ### CROWN & DAGGER CAPITAL, New York, NY  
-**Chief Operating Officer & General Partner**  |  03/25 – Present  
+**Chief Operating Officer & General Partner**  |  04/25 – Present  
 - Co-found Columbia University’s invite-only, student-led hedge fund targeting \$100K+ AUM through macro/quant strategy  
 - Design technical analyst training for equity research, sector coverage, and volatility modeling to support hedging execution  
 - Oversee internal recruitment and led onboarding for inaugural analyst class through accelerator-style curriculum milestones  
 - Engineer asymmetric return profiles using tail-risk hedging strategies designed to protect against black and grey swan events  
 
 ### ROMERO CAPITAL, New York, NY  
-**Private Equity Trainee – Apprenticeship**  |  02/25 – Present  
+**Private Equity Trainee – Apprenticeship**  |  04/25 – Present  
 - Pursue 194+ hours of DCF, LBO, and M&A modeling training to build valuation skillset and transaction execution confidence  
 - Construct investment pitch decks for simulated buyouts integrating comps, precedents, and multi-exit scenario analysis  
 - Develop LBO and accretion/dilution valuation models for 4 case-study exercises while completing formal training curriculum  
@@ -89,19 +89,19 @@
 - Generated composite rankings to finalize course assignments based on transcripts, resumes, and interest-statement responses
 
 ### THE NEW YORK STEM CELL FOUNDATION RESEARCH INSTITUTE, New York, NY
-**Student Researcher – Biomedical Engineering Laboratory**  |  07/22 – 08/22
+**Research Assistant – Biomedical Engineering Laboratory**  |  07/22 – 08/22
 - Conducted stem cell research and analyzed biotechnology protocols, performing assays to assess cellular differentiation and viability.
 - Assisted in experimental design for tissue‐engineering projects, prepared reagents and culture media, and documented results in lab notebooks for senior researchers.
 - Collaborated with a multidisciplinary team to optimize lab workflows and troubleshoot experiments, ensuring reproducible data for ongoing stem cell studies.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Student Researcher – Automation, Robotics, & Circuitry (Computer Science Department)**  |  06/22 – 08/22
+**Research Assistant – Automation, Robotics, & Circuitry (Computer Science Department)**  |  06/22 – 08/22
 - Developed and tested automation and robotics prototypes in circuitry labs, creating control routines for microcontroller‐based devices.
 - Programmed embedded systems to perform sensor data acquisition and analyzed performance metrics to refine hardware–software integration.
 - Reviewed technical documentation and presented weekly progress updates to faculty advisors, contributing design recommendations that improved system reliability by 15%.
 
 ### NEW YORK UNIVERSITY: TANDON SCHOOL OF ENGINEERING, New York, NY
-**Student Researcher – Machine Learning & Artificial Intelligence (Computer Science Department)**  |  06/21 – 08/21
+**Research Assistant – Machine Learning & Artificial Intelligence (Computer Science Department)**  |  06/21 – 08/21
 - Researched machine learning and artificial intelligence algorithms, implementing Python prototypes to evaluate model accuracy on image‐classification datasets.
 - Collaborated with graduate students to fine‐tune neural network architectures, running hyperparameter experiments and visualizing results in Jupyter notebooks.
 - Authored a technical report summarizing findings on sequence‐prediction techniques, which informed follow‐on research projects within the department.
